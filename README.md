@@ -258,6 +258,8 @@ https://github.com/decred/dcrandroid
 
 **Cumberland** https://cumberlandmining.com/
 
+**Kaiserex** https://www.kaiserex.com/
+
 **OneChain Capital** https://onechaincapital.com/
 
 ## Known Addresses
